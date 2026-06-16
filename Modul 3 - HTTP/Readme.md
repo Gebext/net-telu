@@ -87,8 +87,7 @@ Percobaan ini bertujuan untuk mengamati proses pengambilan objek tambahan yang t
 3. Gunakan filter `http`.
 4. Hentikan proses _capture_.
 
-<img width="1365" height="178" alt="565139600-05df837e-eab1-4dde-8235-dde254e2172d" src="https://github.com/user-attachments/assets/d7c21be1-9413-44da-83e0-179df1612a9f" />
-
+<img width="1365" height="178" alt="565139600-05df837e-eab1-4dde-8235-dde254e2172d" src="https://github.com/user-attachments/assets/77e7b3a1-90d0-4cc9-9dc2-7ec84403adbf" />
 ### Hasil Pengamatan
 
 Pada percobaan ini, browser tidak hanya mengirim satu **HTTP GET Request** untuk mengambil file HTML utama, tetapi juga mengirim beberapa request tambahan untuk mengambil objek yang disisipkan pada halaman web. Setiap gambar atau objek lainnya memiliki URL tersendiri sehingga memerlukan request terpisah. Setelah server memberikan respons **HTTP 200 OK**, browser berhasil menampilkan seluruh objek tersebut pada halaman web.
