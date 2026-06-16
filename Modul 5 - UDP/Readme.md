@@ -7,14 +7,12 @@ UDP (User Datagram Protocol) adalah salah satu protokol pada layer transport dal
 1. Download file http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
 2. Extract file dan cari file *http-ethereal-trace-5*
 3. Klik kanan file tersebut, lalu buka (open with) dengan wireshark
-   <img width="679" height="563" alt="Screenshot 2026-04-03 154410" src="https://github.com/user-attachments/assets/8e6ff8f6-2a29-4f03-97db-4bacf6db8cff" />
+  <img width="677" height="114" alt="Screenshot From 2026-06-16 12-18-29" src="https://github.com/user-attachments/assets/0f266c1f-0c2b-4018-9c7e-ac0cd1b5f926" />
 4. Lakukan filter UDP dan pilih 1 paket UDP (bebas)
 
 **Pertanyaan**
 1. Field UDP
-
-  <img width="677" height="114" alt="Screenshot From 2026-06-16 12-18-29" src="https://github.com/user-attachments/assets/0f266c1f-0c2b-4018-9c7e-ac0cd1b5f926" />
-
+   <img width="631" height="224" alt="Screenshot From 2026-06-16 12-21-58" src="https://github.com/user-attachments/assets/7c9e0ba3-ee08-4a8a-a98e-0b10be843d65" />
    Terdapat 4 field : Source Port, Destination Port, Length, Checksum
 
 2. Panjang tiap field
@@ -27,7 +25,7 @@ UDP (User Datagram Protocol) adalah salah satu protokol pada layer transport dal
 
 3. Length
 
-   <img width="283" height="169" alt="Screenshot 2026-04-03 155911" src="https://github.com/user-attachments/assets/06e863bb-e4b8-4803-9013-bc6c0e0246b8" />
+<img width="280" height="169" alt="Screenshot From 2026-06-16 12-22-06" src="https://github.com/user-attachments/assets/ee531437-41f8-420f-bec9-6bfd7c47d293" />
 
    Length (58) menunjukkan total panjang UDP (header (8 byte) + data). maka Data = total - header = 58 - 8 = 50 byte, hal tersebut cocok dengan UDP payload (50 byte)
 
@@ -41,13 +39,13 @@ UDP (User Datagram Protocol) adalah salah satu protokol pada layer transport dal
 
 7. Nomor protokol UDP
 
-   <img width="632" height="272" alt="image" src="https://github.com/user-attachments/assets/acb2bc5b-bbc0-48fb-908a-7f33c7733d9d" />
+   <img width="641" height="18" alt="Screenshot From 2026-06-16 12-22-20" src="https://github.com/user-attachments/assets/36cb637b-6458-4c65-8cdf-ead2f1d8844c" />
 
    Nomor protokol UDP adalah 17 (desimal) atau 0x11 (heksadesimal)
 
-8. Hubungan port
+7. Hubungan port
 
-   <img width="466" height="195" alt="image" src="https://github.com/user-attachments/assets/a9eca4c0-a63e-4cf9-9b63-617f358f68c7" /> <img width="500" height="197" alt="image" src="https://github.com/user-attachments/assets/2e1640de-c4f8-4329-8656-51831dbac695" />
+   <img width="966" height="190" alt="Screenshot From 2026-06-16 12-22-36" src="https://github.com/user-attachments/assets/22806c02-62e3-45aa-a5b3-b69c94d2b503" />
 
    - REQUEST -> Source Port : 4334 & Destination Port : 161
    - RESPONSE -> Source Port : 161 & Destination Port : 4334
