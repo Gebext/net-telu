@@ -1,4 +1,4 @@
-## Talitha Fairuzzahwa Nirwasita - 103072400035 - IF0405
+## M. Gibran Khalilullah - 103072430014 - IF0405
 
 # MODUL 7 : SOCKET PROGRAMMING
 
@@ -105,7 +105,7 @@ serverSocket.close()
 from socket import * ##import all libary
 import sys #untuk kontrol sistem (misalnya exit)
 
-serverName = '10.218.8.126' #alamat IP server yang dituju
+serverName = '10.35.40.01' #alamat IP server yang dituju
 serverPort = 12000 #port yang dituju
 
 clientSocket = socket(AF_INET, SOCK_DGRAM) #membuat socket ipv4 dgn protokol UDP
