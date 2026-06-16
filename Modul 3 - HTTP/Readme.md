@@ -20,7 +20,7 @@ Proses ini bertujuan untuk mengamati komunikasi antara browser sebagai _client_ 
 5. Gunakan filter `http` untuk menampilkan paket HTTP.
 6. Hentikan proses _capture_.
 
-![Basic HTTP GET]()
+<img width="1365" height="694" alt="gambar 1" src="https://github.com/user-attachments/assets/c8f52fdd-f50a-434b-85b7-77f32b6d0470" />
 
 ### Hasil Pengamatan
 
@@ -87,7 +87,7 @@ Percobaan ini bertujuan untuk mengamati proses pengambilan objek tambahan yang t
 3. Gunakan filter `http`.
 4. Hentikan proses _capture_.
 
-![Embedded Objects](https://github.com/user-attachments/assets/fad31af0-16d1-4a26-9464-ff344da4e043)
+<img width="1365" height="178" alt="565139600-05df837e-eab1-4dde-8235-dde254e2172d" src="https://github.com/user-attachments/assets/d7c21be1-9413-44da-83e0-179df1612a9f" />
 
 ### Hasil Pengamatan
 
