@@ -39,7 +39,8 @@ Percobaan ini bertujuan untuk mengamati respons server ketika client meminta res
 3. Gunakan filter `http`.
 4. Hentikan proses _capture_.
 
-![Web Not Found](https://github.com/user-attachments/assets/12cfa1c8-b93d-4ab9-b4db-19b3ac86ef35)
+<img width="1012" height="359" alt="Screenshot From 2026-06-16 12-08-14" src="https://github.com/user-attachments/assets/6a19a26b-ac9d-4f93-82a4-c49836fb62da" />
+
 
 ### Hasil Pengamatan
 
@@ -63,7 +64,8 @@ Proses ini bertujuan untuk mengamati pengambilan dokumen HTML dengan ukuran yang
 3. Gunakan filter `http`.
 4. Hentikan proses _capture_.
 
-![Retrieving Long Documents](https://github.com/user-attachments/assets/f25ebfb0-880e-4624-a19f-57c514dc05fd)
+<img width="993" height="513" alt="Screenshot From 2026-06-16 12-08-25" src="https://github.com/user-attachments/assets/62627753-a03a-4246-ad31-634d3d68303a" />
+
 
 ### Hasil Pengamatan
 
