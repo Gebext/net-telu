@@ -3,7 +3,7 @@
 # MODUL 14 WIFI
 ## Dasar Teori
 
-**IEE 802.11** adalah serangkaian standar protokol internasional yang dirancang oleh Institute of Electrical and Electronics Engineers (IEEE) untuk mengatur komunikasi data pada jaringan nirkabel (Wireless LAN atau Wi-Fi). Protokol ini mendefinisikan aturan pada lapisan fisik (Physical Layer) dan lapisan MAC (Media Access Control) untuk pertukaran data via udara.
+IEEE 802.11 merupakan kumpulan spesifikasi dan protokol internasional yang dirumuskan oleh Institute of Electrical and Electronics Engineers (IEEE) sebagai fondasi operasional jaringan nirkabel (WLAN atau Wi-Fi). Standar ini secara khusus mengatur regulasi pada Physical Layer (Lapisan Fisik) dan Media Access Control / MAC Layer (Lapisan Kontrol Akses Media) guna menjamin kelancaran transmisi data tanpa kabel melalui udara.
 
 **Perbandingan Frekuensi Jaringan Wi-Fi**
 1. Frekuensi 2.4 GHz
